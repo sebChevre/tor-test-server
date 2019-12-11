@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa9c8f2-d32f-437d-b8bf-76b1419c56b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TorTestApplication.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TorTestApplication.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s101plugin.state" beforeDir="false" afterPath="$PROJECT_DIR$/s101plugin.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TestController.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TorTestApplication.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/sebooom/tor/testserver/TorTestApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ch/sebooom/tor/testserver/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ch/sebooom/tor/testserver/TorTestApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch/sebooom/tor/testserver/TorTestApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch/sebooom/tor/testserver/TorTestApplication.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +68,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="TorTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.TorTestApplication">
+    <configuration name="TorTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tor-test-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ch.sebooom.tor.testserver.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="tor-test-server" />
       <extension name="coverage">
         <pattern>
@@ -76,14 +84,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="ch.sebooom.tor.testserver.TorTestApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ch.sebooom.tor.testserver.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TorTestApplication" />
+        <item itemvalue="Spring Boot.java" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575473998867</updated>
       <workItem from="1575474002150" duration="2826000" />
-      <workItem from="1576063375565" duration="255000" />
+      <workItem from="1576063375565" duration="1938000" />
+      <workItem from="1576065657670" duration="127000" />
     </task>
     <servers />
   </component>
